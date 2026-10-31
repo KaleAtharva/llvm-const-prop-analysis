@@ -53,7 +53,7 @@ The pass performs **intraprocedural analysis**, operating on one function's cont
 ## Technologies Used
 
 - C++
-- LLVM
+- LLVM 14
 - LLVM IR
 - Data-Flow Analysis
 - Worklist Algorithm
